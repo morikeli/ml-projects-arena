@@ -38,6 +38,9 @@ You can view the projects using a browser or a text editor, e.g. VS Code.
 
   7. Use the command to open the entire folder in your default browser using Jupyter.
 
-     Type ``` jupyter notebook``` in your terminal/CMD and press ```Enter ```.
+     Type ``` jupyter notebook``` in your terminal/CMD and press ```Enter```.
 
   8. A new tab will be opened in your default browser. Select a folder and click a `.ipynb` file to view the notebook.
+
+### Reminder
+Don't forget to star this repo 😉
